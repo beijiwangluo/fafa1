@@ -1,0 +1,7 @@
+{
+  "name": "gaga1",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://gaga1.mebk.org/"}
+  ]
+}
